@@ -1,7 +1,7 @@
-# game-engine-test
-Trying out a Game Engine
+# make-something
+This Oughta Be Fun(tm)
 
-My goal is to create a simple application that should familiarize me with an engine's features.
+My goal is to create a simple application that should familiarize me how a game engine might work.
 
 This simple application should have the following:
 - A monocolor background which changes to a random color whenever I press the spacebar OR click the mouse within the window, and only if the window is active. The color only changes once, even if the spacebar/mouse is held.
